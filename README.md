@@ -20,7 +20,7 @@ TERMS OF USE
 
 Last updated: September 4, 2026
 
-By using Role Cards ("the App") you agree to these terms. If you do not agree, do not use the App.
+By using RoleCards ("the App") you agree to these terms. If you do not agree, do not use the App.
 
 We grant you a personal, non-exclusive, revocable licence to use the App on devices you own, in line with the App Store Terms of Service. You may not copy, modify, reverse engineer, resell or sublicense the App, or use it unlawfully. The App and its content remain the property of [YOUR NAME].
 
