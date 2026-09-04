@@ -8,6 +8,8 @@ RoleCards ("the App") is developed by Dmytro Ostapchenko.
 
 The App does not require an account and collects no personal data. We do not collect your name, email, phone number, location, contacts, photos, or any device or advertising identifier such as IDFA or IDFV. We do not track you across other apps or websites and we share nothing with advertisers or data brokers.
 
+These events are processed on our own servers and are not shared with any third party.
+
 The App records anonymous usage events — for example, that a screen was opened or a game was started — together with basic technical context such as the App version and operating system version. These events are not linked to you or your device and are analysed only in aggregate, to help us decide what to improve.
 
 Because the data contains no identifiers, it cannot be traced to an individual, and we are therefore unable to retrieve or delete records on request. 
