@@ -6,13 +6,15 @@ Last updated: September 4, 2026
 
 RoleCards ("the App") is developed by Dmytro Ostapchenko.
 
-The App does not require an account and collects no personal data. We do not collect your name, email, phone number, location, contacts, photos, or any device or advertising identifier such as IDFA or IDFV. We do not track you across other apps or websites and we share nothing with advertisers or data brokers.
+The App does not require an account and does not collect personal data. We do not collect your name, email, phone number, location, contacts, photos, or any advertising identifier such as IDFA or IDFV. We do not track you across other apps or websites and we share nothing with advertisers or data brokers.
 
-These events are processed on our own servers and are not shared with any third party.
+The App records anonymous usage events — for example, that a screen was opened or a game was started — together with basic technical context such as the App version and operating system version. These events are analysed only in aggregate, to help us decide what to improve. They are processed on our own servers and are not shared with any third party.
 
-The App records anonymous usage events — for example, that a screen was opened or a game was started — together with basic technical context such as the App version and operating system version. These events are not linked to you or your device and are analysed only in aggregate, to help us decide what to improve.
+The App does not collect stable identifiers. Our analytics may derive a temporary, rotating identifier from technical request data solely to count unique sessions; it is discarded daily and cannot be traced back to you.
 
-Because the data contains no identifiers, it cannot be traced to an individual, and we are therefore unable to retrieve or delete records on request. 
+Because the data we retain contains no identifiers, it cannot be traced to an individual, and we are therefore unable to retrieve or delete records on request.
+
+Questions about this policy can be sent to dimaostapchenko@gmail.com.
 
 We may update this policy. The date above shows the last revision.
 
