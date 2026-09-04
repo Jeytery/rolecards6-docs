@@ -25,3 +25,5 @@ We grant you a personal, non-exclusive, revocable licence to use the App on devi
 The App is provided "as is", without warranty of any kind. To the fullest extent permitted by law, we are not liable for any indirect or consequential damages arising from your use of it. We may modify or discontinue the App at any time.
 
 These terms are governed by the laws of Ukraine. Apple is not a party to these terms and has no obligation to provide support for the App.
+
+Contact: dimaostapchenko@gmail.com
